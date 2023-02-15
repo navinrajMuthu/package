@@ -1,6 +1,6 @@
 {
   "name": "navinrajmuthu_random_number_generator",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Random number generator",
   "main": "index.js",
   "type": "module",
